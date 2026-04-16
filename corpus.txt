@@ -1,0 +1,78 @@
+I/Pronoun love/Verb NLP/Noun
+She/Pronoun eats/Verb rice/Noun
+He/Pronoun reads/Verb books/Noun
+We/Pronoun play/Verb football/Noun
+They/Pronoun watch/Verb TV/Noun
+The/Determiner dog/Noun barks/Verb
+A/Determiner cat/Noun sleeps/Verb
+This/Determiner is/Verb fun/Noun
+You/Pronoun are/Verb awesome/Adjective
+It/Pronoun rains/Verb today/Noun
+I/Pronoun eat/Verb food/Noun
+She/Pronoun drinks/Verb coffee/Noun
+They/Pronoun run/Verb fast/Adverb
+We/Pronoun swim/Verb well/Adverb
+This/Determiner looks/Verb good/Adjective
+He/Pronoun likes/Verb music/Noun
+You/Pronoun speak/Verb English/Noun
+The/Determiner boy/Noun laughs/Verb
+A/Determiner girl/Noun cries/Verb
+We/Pronoun learn/Verb NLP/Noun
+I/Pronoun enjoy/Verb coding/Noun
+They/Pronoun play/Verb games/Noun
+She/Pronoun loves/Verb dancing/Verb
+It/Pronoun snows/Verb outside/Adverb
+You/Pronoun read/Verb books/Noun
+The/Determiner car/Noun moves/Verb fast/Adverb
+A/Determiner tree/Noun grows/Verb tall/Adjective
+He/Pronoun drives/Verb quickly/Adverb
+We/Pronoun answer/Verb questions/Noun
+They/Pronoun talk/Verb loudly/Adverb
+This/Determiner seems/Verb interesting/Adjective
+I/Pronoun speak/Verb truth/Noun
+She/Pronoun writes/Verb poems/Noun
+You/Pronoun build/Verb apps/Noun
+The/Determiner train/Noun comes/Verb late/Adverb
+A/Determiner kite/Noun flies/Verb high/Adverb
+He/Pronoun jumps/Verb high/Adverb
+We/Pronoun dance/Verb together/Adverb
+They/Pronoun study/Verb hard/Adverb
+This/Determiner smells/Verb good/Adjective
+I/Pronoun draw/Verb pictures/Noun
+She/Pronoun paints/Verb walls/Noun
+You/Pronoun sing/Verb songs/Noun
+We/Pronoun cook/Verb dinner/Noun
+They/Pronoun travel/Verb abroad/Adverb
+It/Pronoun feels/Verb nice/Adjective
+The/Determiner man/Noun sells/Verb fruits/Noun
+A/Determiner woman/Noun sells/Verb veggies/Noun
+He/Pronoun builds/Verb robots/Noun
+We/Pronoun fix/Verb cars/Noun
+They/Pronoun catch/Verb fish/Noun
+You/Pronoun plant/Verb trees/Noun
+I/Pronoun drive/Verb bike/Noun
+She/Pronoun cares/Verb children/Noun
+We/Pronoun like/Verb sports/Noun
+They/Pronoun work/Verb daily/Adverb
+This/Determiner taste/Verb sweet/Adjective
+The/Determiner baby/Noun sleeps/Verb peacefully/Adverb
+A/Determiner boy/Noun plays/Verb guitar/Noun
+He/Pronoun buys/Verb gifts/Noun
+I/Pronoun solve/Verb problems/Noun
+She/Pronoun teaches/Verb kids/Noun
+You/Pronoun ask/Verb questions/Noun
+We/Pronoun share/Verb food/Noun
+They/Pronoun enjoy/Verb parties/Noun
+This/Determiner train/Noun stops/Verb here/Adverb
+My/Determiner Name/Noun is/Verb hansika/Noun
+My/Determiner book/Noun is/Verb good/Adjective
+My/Determiner friend/Noun is/Verb here/Adverb
+His/Determiner name/Noun is/Verb ram/Noun
+Her/Determiner name/Noun is/Verb sita/Noun
+the/Determiner girl/Noun sings/Verb well/Adverb
+a/Determiner dog/Noun barks/Verb loudly/Adverb
+I/PRP can/MD swim/VB
+She/PRP will/MD go/VB home/NN
+They/PRP must/MD study/VB hard/RB
+He/PRP should/MD eat/VB food/NN
+We/PRP might/MD travel/VB tomorrow/NN
